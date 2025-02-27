@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(239, 209, 209);
+}.contact{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+ 
+}
